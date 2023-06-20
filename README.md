@@ -16,7 +16,7 @@ Projeto desenvolvido em grupo - Foi elaborada uma aplicação utilizando compone
 <details>
   <summary><strong>:memo: Habilidades</strong></summary><br />
 
-  Neste projeto você será irá:
+  Neste projeto foi utilizado:
 
   * Entender o que são Métodos Ágeis;
   * Entender o que é Kanban;
